@@ -1,0 +1,6 @@
+.show-transition {
+    /* Define your transition effect here */
+    transition: opacity 0.5s ease;
+    opacity: 1; /* You may want to set this to 0 initially and transition to 1 */
+  }
+  
